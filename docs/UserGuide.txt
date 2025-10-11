@@ -1,0 +1,50 @@
+
+
+Multi - User Quiz Game
+
+Introduction:
+
+This is a small computer program designed as evidence for my assessment 1, Module CETM73. It is a quiz game program and the questions used for the quiz are only to demonstrate the functionality of the program.
+
+Description:
+
+It is a small console- based multi - user quiz game designed in python. It contains 10 questions with 4 multiple choice answers. At the end of the game, it displays the scores for all users sorted in order from highest score to lowest and it displays the average score for all users. 
+
+Features: 
+- It is a console-based program.
+- It allows multiple users to play the quiz.
+- It is a quiz with four multiple choice answers.
+- It shuffles the order of the questions for every new user.
+- It tracks and displays all users score.
+- It is an interactive user interface.
+
+What the program does:
+- It takes inputs from users such as username, user answers.
+- It displays 10 questions and 4 multiple choice answers for each user.
+- It imports “import random” method from python library.
+- It randomises the order of the questions for every new user.
+- It checks users answers and displays whether it’s correct or incorrect.
+- It keeps a track of users correct answers and display score for each user.
+
+How to use the program:
+- Open the program file on python code compatible console and run it.
+- The program asks you to enter your name. 
+- Enter your name and press enter on your keyboard, the program displays the 1st question with 4 possible answers and asks you to enter your answer.
+- Enter your answers by typing A or B or C or D in upper case and press enter.
+- The program checks your answer, displays whether it’s correct or incorrect.
+- if your answer is correct, it says you are correct, and it displays the next question.
+- if your answer is wrong, it says it’s incorrect, and it displays the next question.
+- Enter your best answer A or B or C or D for each question and press enter) and the program does the same for all questions (it checks your answers, displays whether it was correct or incorrect and displays the next question for you.
+- After the last question, the program also asks if there is anyone else wants to play the quiz.
+- Enter just y if there is someone else wants to play the quiz or n if you are the last person to play the quiz and press enter on your keyboard. 
+
+ 
+
+
+- If you entered y, then the program starts the next quiz by asking the name of the player. However, if you entered n, then the program displays the scores for all users in order from the highest to the lowest score. 
+- That completes the game, and you can close the program. 
+Requirements:
+- Python compatible console such as python IDLE or any compatible code editor.
+ 
+Any issues:
+- Please let me know if you have any questions on adisu.genbez83@yahoo.com
