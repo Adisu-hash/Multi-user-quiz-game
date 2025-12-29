@@ -21,9 +21,9 @@ Features:
 What the program does:
 - It takes inputs from users such as username, user answers.
 - It displays 10 questions and 4 multiple choice answers for each user.
-- It imports ìimport randomî method from python library.
+- It imports ‚Äúimport random‚Äù method from python library.
 - It randomises the order of the questions for every new user.
-- It checks users answers and displays whether itís correct or incorrect.
+- It checks users answers and displays whether it‚Äôs correct or incorrect.
 - It keeps a track of users correct answers and display score for each user.
 
 How to use the program:
@@ -31,16 +31,14 @@ How to use the program:
 - The program asks you to enter your name. 
 - Enter your name and press enter on your keyboard, the program displays the 1st question with 4 possible answers and asks you to enter your answer.
 - Enter your answers by typing A or B or C or D in upper case and press enter.
-- The program checks your answer, displays whether itís correct or incorrect.
+- The program checks your answer, displays whether it‚Äôs correct or incorrect.
 - if your answer is correct, it says you are correct, and it displays the next question.
-- if your answer is wrong, it says itís incorrect, and it displays the next question.
+- if your answer is wrong, it says it‚Äôs incorrect, and it displays the next question.
 - Enter your best answer A or B or C or D for each question and press enter) and the program does the same for all questions (it checks your answers, displays whether it was correct or incorrect and displays the next question for you.
 - After the last question, the program also asks if there is anyone else wants to play the quiz.
 - Enter just y if there is someone else wants to play the quiz or n if you are the last person to play the quiz and press enter on your keyboard. 
 
  
-
-
 - If you entered y, then the program starts the next quiz by asking the name of the player. However, if you entered n, then the program displays the scores for all users in order from the highest to the lowest score. 
 - That completes the game, and you can close the program. 
 Requirements:
@@ -48,3 +46,4 @@ Requirements:
  
 Any issues:
 - Please let me know if you have any questions on adisu.genbez83@yahoo.com
+
