@@ -16,15 +16,14 @@ A **console-based**, **multi-user** quiz game written in Python. Each player ans
 
 ## 📦 Project Structure
 
-├── src/
-│ main.py # or quiz_game.py – game’s entry point
-├── docs/
-│ How_to_Play.txt # full “how to play” instructions
-├── media/
-│ demo_link.txt # link to screen-recorded demo (or demo.mp4 if <25MB)
-└── README.md
+- src/
+main.py # or quiz_game.py – game’s entry point
+- docs/
+How_to_Play.txt # full “how to play” instructions
+- media/
+demo_link.txt # link to screen-recorded demo (or demo.mp4 if <25MB)
+- README.md
 
-> If your entry file is named differently (e.g., `quiz_game.py`), update the commands below.
 
 ---
 
@@ -33,7 +32,7 @@ A **console-based**, **multi-user** quiz game written in Python. Each player ans
 
 ```bash
 # from the repository root
-python src/main.py
+python src/main.py ( available upon request)
 # or
 python3 src/main.py
 You’ll be prompted for a player name, then to answer each question by typing A / B / C / D (uppercase).
@@ -51,10 +50,7 @@ After 10 questions, you’ll be asked if another player wants to play (y/n).
 When everyone is finished, the game prints a sorted scoreboard (highest to lowest) and the average score.
 
 Full instructions: see docs/How_to_Play.txt.
-🎥 Demo
 
-A narrated walkthrough of the code and gameplay is available here:
-media/demo_link.txt → add your LinkedIn/YouTube/Vimeo URL inside that file.
 🧩 Design Notes
 
 Uses Python random to shuffle question order per player
@@ -80,6 +76,4 @@ Personal academic project. You may read and run locally for learning.
 
 Name Adisu Genbez
 
-LinkedIn: LinkedIn URL
-
-Email: email
+Email: adisu.genbez83@yahoo.com
